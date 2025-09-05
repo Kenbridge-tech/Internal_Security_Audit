@@ -82,7 +82,7 @@ Audit Checklist (proof.md) → Evidence of completed compliance and control revi
 ---
 
 ## Key Takeaways:
-- This stimulation helped me strengthen my skills in:
+This stimulation helped me strengthen my skills in:
 - Applying the NIST Cybersecurity Framework in a practical scenario.
 - Identifying and evaluating security controls across people, processes, and technology.
 - Understanding how compliance frameworks like PCI DSS and GDPR influence risk.
