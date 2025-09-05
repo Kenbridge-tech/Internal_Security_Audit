@@ -39,4 +39,4 @@
 ## Notes:
 The results clearly show that Botium Toys has **strong physical security** but lacks **core administrative and technical safeguards**. The priority should be improving access control, encryption, intrusion detection, and backups.  
 
-*(See [**report.docx**](report.docx/Botium_Toys_Internal_Security_Audit.pdf) for full executive summary and recommendations.)*
+See [**report.docx**](report.docx/Botium_Toys_Internal_Security_Audit.pdf) for full executive summary and recommendations.
