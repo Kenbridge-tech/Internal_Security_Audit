@@ -2,8 +2,7 @@
 # 🧸 Botium Toys: Internal Security Audit  
 
 ## **Description:**  
-This project is part of my **Google Cybersecurity Professional Certificate** coursework.  
-The scenario involves **conducting an internal IT security audit** for a fictional U.S. toy company called **Botium Toys**.  
+As part of my **Google Cybersecurity Professional Certificate**, I worked on a simulated case study where I stepped into the role of an internal IT auditor for a fictional U.S. toy company, **Botium Toys**.
 
 The audit was based on the **NIST Cybersecurity Framework (CSF)**, and my role was to:  
 - Review the company’s **scope, assets, and risk assessment**.  
@@ -11,10 +10,9 @@ The audit was based on the **NIST Cybersecurity Framework (CSF)**, and my role w
 - Identify **security gaps** in administrative, technical, and physical controls.  
 - Recommend improvements to strengthen Botium Toys’ overall **security posture**.  
 
-
 ---
 
-## Features:  
+## Key Features of the Audit:  
 - ✅ Completed an **internal IT audit** using NIST CSF guidelines.  
 - ✅ Mapped **controls across Administrative, Technical, and Physical categories**.  
 - ✅ Identified **key compliance issues** with PCI DSS, GDPR, and general data protection.  
@@ -26,7 +24,6 @@ The audit was based on the **NIST Cybersecurity Framework (CSF)**, and my role w
 ## Tools & Environment: 
 - **Framework Used:** NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)  
 - **Document Preparation:** Google Docs / Microsoft Word  
-- **simulated case study,** no real-world deployment)  
 
 ---
 
@@ -41,7 +38,6 @@ Steps Taken:
    - Focus: Identify security gaps + compliance risks.  
 
  ![Fig1](assets/images/scope_review.png)
-
 ---
 
 2. **Analyzed Risk Assessment Report**  
@@ -56,10 +52,10 @@ Steps Taken:
   ![Fig2](assets/images/risk_assessment.png)
 ---
 
-3. **Mapped Controls to NIST CSF Categories**  
-   - **Administrative Controls** = Password policy, least privilege, account management, separation of duties.  
-   - **Technical Controls** = Firewalls, IDS/IPS, encryption, antivirus, backups.  
-   - **Physical Controls** = Locks, CCTV, fire detection, safes.  
+3. **Controls Mapped to NIST CSF**  
+   - **Administrative Controls:** Password policy, least privilege, account management, separation of duties.  
+   - **Technical Controls:** Firewalls, IDS/IPS, encryption, antivirus, reliable backups.
+   - **Physical Controls:** Locks, CCTV, fire detection, safes for sensitive media.  
 
 ![Fig3](assets/images/control_mapping.png)
 ---
@@ -79,19 +75,22 @@ Steps Taken:
 ![Fig5](assets/images/report_summary.png)
 ---
 
-## Output:
-
-The exercise produced two main outputs:  
-- `report.docx` → Formal Audit Report (executive summary, scope, findings, recommendations).  
-- `proof.md` → Evidence of the completed audit checklist.  
+## Final Deliverables:
+Audit Report (report.docx) → Executive summary, detailed findings, and recommendations.
+Audit Checklist (proof.md) → Evidence of completed compliance and control reviews. 
 
 ---
 
 ## Key Takeaways:
-In this simulation, I learned about how to
-- **Apply NIST CSF in a real-world scenario**.  
-- Practiced identifying **administrative, technical, and physical controls**.  
-- Understood the importance of **compliance frameworks** (PCI DSS, GDPR).  
-- Lastly, it strengthened my ability to **communicate cybersecurity risks to non-technical stakeholders**.  
+- This stimulation helped me strengthen my skills in:
+- Applying the NIST Cybersecurity Framework in a practical scenario.
+- Identifying and evaluating security controls across people, processes, and technology.
+- Understanding how compliance frameworks like PCI DSS and GDPR influence risk.
+- Translating technical risks into business language for non-technical stakeholders.
 
 ---
+
+
+
+
+It was a great exercise in thinking like a cybersecurity analyst, balancing both the technical findings and how to communicate them effectively to leadership.
