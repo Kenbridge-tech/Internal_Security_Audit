@@ -40,7 +40,7 @@ Steps Taken:
    - Covered all assets (employee devices, internal network, payment processing, online systems, physical warehouse).  
    - Focus: Identify security gaps + compliance risks.  
 
- ![scope & goals](images/scope_review.png)
+ ![scope & goals](assets/images/scope_review.png)
 
 ---
 
