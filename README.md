@@ -68,7 +68,7 @@ Steps Taken:
 ---
 
 5. **Generated Final Report**  
-   - Prepared an **executive summary** for management.  
+   - Prepared an [**executive summary**](/report.pdf) for management.  
    - Wrote findings, risks, and actionable recommendations.  
    - Highlighted the importance of implementing **least privilege, encryption, IDS, and backups** immediately.  
 
