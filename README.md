@@ -53,8 +53,7 @@ Steps Taken:
      - No backups or disaster recovery plan.  
      - No Intrusion Detection System (IDS).  
 
-   *(screenshot placeholder: `assets/risk_assessment.png`)*  
-
+  ![risk assessment screenshot](assets/images/risk_assessment.png)
 ---
 
 3. **Mapped Controls to NIST CSF Categories**  
@@ -62,16 +61,14 @@ Steps Taken:
    - **Technical Controls** = Firewalls, IDS/IPS, encryption, antivirus, backups.  
    - **Physical Controls** = Locks, CCTV, fire detection, safes.  
 
-   *(screenshot placeholder: `assets/control_mapping.png`)*  
-
+![controls](assets/images/control_mapping.png)
 ---
 
 4. **Completed the Controls & Compliance Checklist**  
    - Answered **YES/NO** questions for each control based on findings.  
    - Identified gaps in compliance with **PCI DSS** and **GDPR**.  
 
-   *(screenshot placeholder: `assets/checklist.png`)*  
-
+![control and compliance](assets/images/checklist.png)
 ---
 
 5. **Generated Final Report**  
@@ -79,8 +76,7 @@ Steps Taken:
    - Wrote findings, risks, and actionable recommendations.  
    - Highlighted the importance of implementing **least privilege, encryption, IDS, and backups** immediately.  
 
-   *(screenshot placeholder: `assets/report_summary.png`)*  
-
+![report](assets/images/report_summary.png)
 ---
 
 ## Output:
